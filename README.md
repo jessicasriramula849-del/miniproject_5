@@ -1,5 +1,5 @@
 # miniproject_5
-Deep Learning for Comment Toxicity Detection with Streamlit
+Deep Learning Model for Comment Toxicity Detection with Streamlit
 
 Brief summary about my project:
 
