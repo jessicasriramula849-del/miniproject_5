@@ -1,5 +1,5 @@
 # miniproject_5
-Deep Learning Model for Comment Toxicity Detection 
+Deep Learning Model for Comment Toxicity Detection
 
 Brief summary about my project:
 
